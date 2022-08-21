@@ -101,7 +101,7 @@ History films on average make the most in terms of worldwide gross followed by a
 ## What film genre is the most highly rated? 
 
 <div>
-    <img src="photos\HIGHESTRATED3.PNG" width="900" align = "center"/>
+    <img src="photos\HIGHESTRATED3.png" width="900" align = "center"/>
 </div>
 
 ## Average IMDb rating by genre: 
