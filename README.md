@@ -6,7 +6,7 @@
     <img src="dsc-phase-1-project-v2-4/photos/microsoft-corporate-office-phone-number.jpg" width="900" align = "center"/>
 </div>
 
-## Overview
+## Overview 
 
 Microsoft has decided to join the film industry and we are charged with the responsibility of finding out how best the company can dip their metaphorical toes into the depths of Hollywood. Our approach is to take a look at films that are considered to be "good" films, with an IMDB score of "7" or above, and an ROI of 5000% or higher. Once we have our sample size we will look to see if the genre and initial budget has anything to do with the success of other films, and how we can replicate some of that success for ourselves. 
 
