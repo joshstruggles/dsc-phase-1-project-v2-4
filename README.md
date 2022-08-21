@@ -3,7 +3,7 @@
 
 
 <div>
-    <img src="microsoft building.jpg" width="900" align = "center"/>
+    <img src="photos/microsoft-corporate-office-phone-number.jpg" width="900" align = "center"/>
 </div>
 
 ## Overview
