@@ -1,10 +1,12 @@
+<div>
+    <img src="photos/microsoft-corporate-office-phone-number.jpg" width="600" align = "center"/>
+</div>
+
 # Microsoft film studio narrows down specifics for team's first project
 
 
 
-<div>
-    <img src="dsc-phase-1-project-v2-4/photos/microsoft-corporate-office-phone-number.jpg" width="900" align = "center"/>
-</div>
+
 
 ## Overview 
 
