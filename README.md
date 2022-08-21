@@ -1,5 +1,5 @@
 <div>
-    <img src="photos/microsoft-corporate-office-phone-number.jpg" width="600" align = "center"/>
+    <img src="photos/microsoft-corporate-office-phone-number.jpg" width="300" align = "center"/>
 </div>
 
 # Microsoft film studio narrows down specifics for team's first project
@@ -88,15 +88,15 @@ History films on average make the most in terms of worldwide gross followed by a
 
 ## Average ROI percentage by genre: 
 
-* Horror films have a 5421.27% ROI with an intial investment of \\$10.5 million and a worldwide gross of $116 million
+* Horror films have a 5421.27% ROI with an intial investment of $10.5 million and a worldwide gross of $116 million
 
-* News films have a 5336.59% ROI with a initial investment of \\$1 million and a worldwide gross of $53.3 million 
+* News films have a 5336.59% ROI with a initial investment of $1 million and a worldwide gross of $53.3 million 
 
-* Sci-fi films have a 5230.71% ROI with an initial investment of \\$18 million and a worldwide gross of $167 million 
+* Sci-fi films have a 5230.71% ROI with an initial investment of $18 million and a worldwide gross of $167 million 
 
-* Mystery films have a 5067% ROI with an initial investment of \\$12 million and a worldwide gross of $152 million 
+* Mystery films have a 5067% ROI with an initial investment of $12 million and a worldwide gross of $152 million 
 
-* Action films have a 4153% ROi with an initial investment of \\$27 million and a worldwide gross of $268 million 
+* Action films have a 4153% ROI with an initial investment of $27 million and a worldwide gross of $268 million 
 
 ## What film genre is the most highly rated? 
 
@@ -126,6 +126,6 @@ History films on average make the most in terms of worldwide gross followed by a
 
 * History films have the potential historically (no pun intended, I swear) to make the most $$$, unfortunately they also cost the most to create. 
 
-* Horror films on average have the most ROI, however that also seems to be because horror films in general start with a fairly modest average budget of \\$10.5 million (compared to the average history film's budget of $133 million). 
+* Horror films on average have the most ROI, however that also seems to be because horror films in general start with a fairly modest average budget of $10.5 million (compared to the average history film's budget of $133 million). 
 
 * The Western genre does very well with viewer scores if we are interested in solely making a good film with an average IMDb score of 7.85
