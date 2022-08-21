@@ -22,7 +22,7 @@ The data used was provided to us via the original project repository. We mainly 
 * IMDb ratings database for average user ratings on films. 
 * IMDb basics database for information on films: genre, film title, and runtime. 
 
-From thenumbers.com database we utilized the following: 
+From thenumbers.com database we utilized the following:  
 
 * Website dataframe with information on initial budget, domestic, and worldwide gross. 
 * ROI(return on investment) percentage was found dividing initial budget into worldwide gross and multiplying by 100. 
