@@ -3,7 +3,7 @@
 
 
 <div>
-    <img src=dsc-phase-1-project-v2-4/photos/microsoft-corporate-office-phone-number.jpg width="900" align = "center"/>
+    <img src="dsc-phase-1-project-v2-4/photos/microsoft-corporate-office-phone-number.jpg" width="900" align = "center"/>
 </div>
 
 ## Overview 
